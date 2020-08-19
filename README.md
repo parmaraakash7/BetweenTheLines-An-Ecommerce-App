@@ -84,5 +84,6 @@ Between The Lines - An Ecommerce app made using flutter.<br>
   </tr>
 </table>
 
-<h3>For more screenshots - goto Screenshots directory from the root of project.</a></h3>
-Licensed under [MIT License.](LICENSE)
+<h3>For more screenshots - goto Screenshots directory from the root of project.</h3>
+<br>
+<h3>Licensed under MIT License.</h3>
