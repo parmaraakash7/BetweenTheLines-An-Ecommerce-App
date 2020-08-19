@@ -1,0 +1,45 @@
+name: betweenthelines
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  splashscreen : ^1.2.0
+  path_provider: ^1.4.4
+  flutter_custom_clippers: ^1.1.0
+  flutter_auth_buttons: ^0.6.0
+  firebase_auth:
+  google_sign_in:
+  flutter_beautiful_popup: ^1.4.0
+  flutter_bloc: ^2.1.1
+  flutter_masked_text: ^0.8.0
+  font_awesome_flutter:
+  flutter_spinkit: ^3.1.0
+  cached_network_image: ^2.0.0
+
+  
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  
+
+  uses-material-design: true
+  assets:
+    - Assets/Images/google_logo.png
+    - Assets/Images/bookstore_logo.png
+    - Assets/Images/IMG_1824.png
+    - Assets/Images/empty_wishlist.png
+    - Assets/Images/Empty_Shopping_Cart_blog.jpg
+
+
